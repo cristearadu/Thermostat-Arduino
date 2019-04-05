@@ -1,7 +1,7 @@
 # Thermostat-Arduino
 
-For this project you need:
-  *Arduino UNO Board;
-  *LCD Screen;
-  *Potentiometer;
-  *Temperature & Humidity Sensor;
+I made a Pong game using:
+  * Ardunio UNO ;
+  * LCD Screen ;
+  * Potentiometer ;
+  * Temperature & Humidity sensor ;
